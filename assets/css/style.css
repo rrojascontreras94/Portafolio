@@ -50,3 +50,11 @@ img{width: 100%;}
 .carousel-indicators li{background: #373A3C31 !important}
 
 hr.ricomida-divider {border-top: 1pt solid #000000;}
+
+.hero-section {background-image: url('../img/bg-hero.png');background-repeat: no-repeat;background-size: cover;color: #ffffff;height: 90vh;}
+.bg-opacity{height: 100%;width: 100%;background: rgba(0,0,0,0.6);}
+.hero-text{text-align: center;text-shadow: 0.125em 0.25em 0.125em #707070;position: relative;top: 40%;}
+.ekko-lightbox-nav-overlay a {display: none;}
+.bg-1{background-image: url(../img/bg-hero.png);}
+.bg-2{background-image: url(../img/code-2.jpg);}
+.bg-1, .bg-2{background-size: cover;background-repeat: no-repeat;background-position: center;height: 95vh;}
